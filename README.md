@@ -1,2 +1,2 @@
-This is the assignment solution of the course Introduction to Robotics.
+Some ROS code with python.
 
